@@ -1,0 +1,10 @@
+
+[Abarth, Ascari, Bizzarrini, Brabus, Cisitalia, Continental, 
+DeTomaso, Donkervoort, Echidna, Epsilon, Geiger, Gemballa, 
+Gordini, HSV, Invicta, Iceni, Kleemann, 
+Lingenfelter, Novitec, Oreca, Pininfarina, 
+Roush, Spyker, Talbot-Lago, Trident, 
+Vandenbrink, Venturi, Willys-Knight, Zytek]	
+
+
+
